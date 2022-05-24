@@ -169,7 +169,7 @@ spyder-kernels==1.9.0
 surprise==0.1
 tensorboard==2.2.0
 tensorboard-plugin-wit==1.6.0.post2
-tensorflow==2.2.0rc2
+tensorflow==2.6.4
 tensorflow-estimator==2.2.0rc0
 tensorflow-gpu-estimator==2.1.0
 termcolor==1.1.0
