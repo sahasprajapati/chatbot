@@ -33,7 +33,7 @@ docx==0.2.4
 entrypoints==0.3
 evaluate==0.0.3
 flake8==3.7.9
-Flask==1.1.1
+Flask==2.2.5
 future==0.18.2
 gast==0.3.3
 glfw==1.11.0
