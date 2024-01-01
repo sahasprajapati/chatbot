@@ -107,7 +107,7 @@ pickleshare==0.7.5
 Pillow==7.0.0
 pluggy==0.13.1
 prometheus-client==0.7.1
-prompt-toolkit==3.0.3
+prompt-toolkit==3.0.13
 protobuf==3.11.3
 psutil==5.7.0
 pyasn1==0.4.8
