@@ -34,7 +34,7 @@ entrypoints==0.3
 evaluate==0.0.3
 flake8==3.7.9
 Flask==1.1.1
-future==0.18.2
+future==0.18.3
 gast==0.3.3
 glfw==1.11.0
 google-auth==1.12.0
@@ -56,7 +56,7 @@ ipywidgets==7.5.1
 isort==4.3.21
 itsdangerous==1.1.0
 jedi==0.15.2
-Jinja2==2.11.1
+Jinja2==3.1.4
 jinja2-time==0.2.0
 joblib==0.14.1
 json5==0.9.4
