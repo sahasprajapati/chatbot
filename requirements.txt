@@ -34,7 +34,7 @@ entrypoints==0.3
 evaluate==0.0.3
 flake8==3.7.9
 Flask==1.1.1
-future==0.18.2
+future==0.18.3
 gast==0.3.3
 glfw==1.11.0
 google-auth==1.12.0
