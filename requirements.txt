@@ -191,4 +191,4 @@ wincertstore==0.2
 wrapt==1.12.1
 xgboost==1.0.2
 yapf==0.28.0
-zipp==2.2.0
+zipp==3.19.1
